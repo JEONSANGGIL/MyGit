@@ -1,0 +1,75 @@
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\eChartUpdate.exe
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\eChartUpdate.deps.json
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\eChartUpdate.runtimeconfig.json
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\eChartUpdate.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\eChartUpdate.pdb
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.csproj.GenerateResource.cache
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.AssemblyInfo.cs
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\refint\eChartUpdate.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.pdb
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.genruntimeconfig.cache
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\ref\eChartUpdate.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.csproj.CopyComplete
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\eChartUpdate.exe
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\eChartUpdate.deps.json
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\eChartUpdate.runtimeconfig.json
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\eChartUpdate.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\eChartUpdate.pdb
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.csproj.AssemblyReference.cache
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.frmUpdate.resources
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.csproj.GenerateResource.cache
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.AssemblyInfoInputs.cache
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.AssemblyInfo.cs
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.csproj.CopyComplete
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\refint\eChartUpdate.dll
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.pdb
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.genruntimeconfig.cache
+C:\Users\user\Documents\네이트온 받은 파일\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\ref\eChartUpdate.dll
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.frmUpdate.resources
+C:\Users\User\source\repos\eChartUpdate\eChartUpdate\obj\Debug\net6.0-windows\eChartUpdate.Form.frmMain.resources

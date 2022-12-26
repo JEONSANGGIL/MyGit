@@ -1,0 +1,1324 @@
+
+2022-12-15 오후 2:17:51
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+
+2022-12-15 오후 2:19:20
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+
+2022-12-15 오후 2:30:34
+
+테이블 작업 시작합니다.
+
+2022-12-15 오후 2:32:00
+
+테이블 작업 시작합니다.
+
+2022-12-15 오후 2:33:05
+
+테이블 작업 시작합니다.
+
+2022-12-15 오후 2:34:05
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+
+2022-12-15 오후 2:34:22
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 15 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+
+2022-12-15 오후 2:36:54
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 9 초
+파일 다운로드를 시작합니다
+
+2022-12-15 오후 2:38:14
+
+테이블 작업 시작합니다.
+
+2022-12-15 오후 2:44:14
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+
+2022-12-15 오후 2:44:35
+
+테이블 작업 시작합니다.
+
+2022-12-15 오후 2:44:52
+
+테이블 작업 시작합니다.
+
+2022-12-15 오후 2:45:05
+
+테이블 작업 시작합니다.
+
+2022-12-15 오후 2:45:30
+
+테이블 작업 시작합니다.
+
+2022-12-15 오후 2:46:22
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 12 초
+
+2022-12-15 오후 2:46:58
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 13 초
+
+2022-12-15 오후 2:49:30
+
+테이블 작업 시작합니다.
+
+2022-12-15 오후 2:53:03
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+
+2022-12-15 오후 2:53:32
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+
+2022-12-15 오후 2:53:53
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 9 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+Autofac.dll
+Autofac.Extensions.DependencyInjection.dll
+BouncyCastle.Crypto.dll
+chromedriver.exe
+ComLib.deps.json
+ComLib.dll
+ComLib32.dll
+DevExpress.Charts.v22.1.Core.dll
+DevExpress.CodeParser.v22.1.dll
+DevExpress.Data.Desktop.v22.1.dll
+DevExpress.Data.v22.1.dll
+DevExpress.DataAccess.v22.1.dll
+DevExpress.DataAccess.v22.1.UI.dll
+DevExpress.DataVisualization.v22.1.Core.dll
+DevExpress.DemoData.v22.1.dll
+DevExpress.Diagram.v22.1.Core.dll
+DevExpress.Dialogs.v22.1.Core.dll
+DevExpress.Drawing.v22.1.dll
+DevExpress.Images.v22.1.dll
+DevExpress.Map.v22.1.Core.dll
+DevExpress.Mvvm.v22.1.dll
+DevExpress.Office.v22.1.Core.dll
+DevExpress.Pdf.v22.1.Core.dll
+DevExpress.Pdf.v22.1.Drawing.dll
+DevExpress.PivotGrid.v22.1.Core.dll
+DevExpress.Printing.v22.1.Core.dll
+
+2022-12-15 오후 2:55:21
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+Autofac.dll
+Autofac.Extensions.DependencyInjection.dll
+BouncyCastle.Crypto.dll
+chromedriver.exe
+ComLib.deps.json
+ComLib.dll
+ComLib32.dll
+DevExpress.Charts.v22.1.Core.dll
+DevExpress.CodeParser.v22.1.dll
+DevExpress.Data.Desktop.v22.1.dll
+DevExpress.Data.v22.1.dll
+DevExpress.DataAccess.v22.1.dll
+DevExpress.DataAccess.v22.1.UI.dll
+DevExpress.DataVisualization.v22.1.Core.dll
+DevExpress.DemoData.v22.1.dll
+DevExpress.Diagram.v22.1.Core.dll
+DevExpress.Dialogs.v22.1.Core.dll
+DevExpress.Drawing.v22.1.dll
+DevExpress.Images.v22.1.dll
+DevExpress.Map.v22.1.Core.dll
+DevExpress.Mvvm.v22.1.dll
+DevExpress.Office.v22.1.Core.dll
+DevExpress.Pdf.v22.1.Core.dll
+DevExpress.Pdf.v22.1.Drawing.dll
+DevExpress.PivotGrid.v22.1.Core.dll
+DevExpress.Printing.v22.1.Core.dll
+DevExpress.RichEdit.v22.1.Core.dll
+DevExpress.RichEdit.v22.1.Export.dll
+DevExpress.Sparkline.v22.1.Core.dll
+DevExpress.SpellChecker.v22.1.Core.dll
+DevExpress.Spreadsheet.v22.1.Core.dll
+DevExpress.TreeMap.v22.1.Core.dll
+DevExpress.Tutorials.v22.1.dll
+DevExpress.Utils.v22.1.dll
+DevExpress.Utils.v22.1.UI.dll
+DevExpress.Xpo.v22.1.dll
+DevExpress.XtraBars.v22.1.dll
+DevExpress.XtraCharts.v22.1.dll
+DevExpress.XtraCharts.v22.1.Extensions.dll
+DevExpress.XtraCharts.v22.1.UI.dll
+DevExpress.XtraCharts.v22.1.Wizard.dll
+DevExpress.XtraDiagram.v22.1.dll
+DevExpress.XtraDialogs.v22.1.dll
+DevExpress.XtraEditors.v22.1.dll
+DevExpress.XtraGantt.v22.1.dll
+DevExpress.XtraGauges.v22.1.Core.dll
+DevExpress.XtraGauges.v22.1.Presets.dll
+DevExpress.XtraGauges.v22.1.Win.dll
+
+2022-12-15 오후 2:58:17
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+Autofac.dll
+Autofac.Extensions.DependencyInjection.dll
+BouncyCastle.Crypto.dll
+chromedriver.exe
+ComLib.deps.json
+ComLib.dll
+ComLib32.dll
+DevExpress.Charts.v22.1.Core.dll
+DevExpress.CodeParser.v22.1.dll
+DevExpress.Data.Desktop.v22.1.dll
+DevExpress.Data.v22.1.dll
+DevExpress.DataAccess.v22.1.dll
+DevExpress.DataAccess.v22.1.UI.dll
+DevExpress.DataVisualization.v22.1.Core.dll
+DevExpress.DemoData.v22.1.dll
+DevExpress.Diagram.v22.1.Core.dll
+DevExpress.Dialogs.v22.1.Core.dll
+DevExpress.Drawing.v22.1.dll
+DevExpress.Images.v22.1.dll
+DevExpress.Map.v22.1.Core.dll
+DevExpress.Mvvm.v22.1.dll
+DevExpress.Office.v22.1.Core.dll
+DevExpress.Pdf.v22.1.Core.dll
+DevExpress.Pdf.v22.1.Drawing.dll
+DevExpress.PivotGrid.v22.1.Core.dll
+DevExpress.Printing.v22.1.Core.dll
+DevExpress.RichEdit.v22.1.Core.dll
+DevExpress.RichEdit.v22.1.Export.dll
+DevExpress.Sparkline.v22.1.Core.dll
+DevExpress.SpellChecker.v22.1.Core.dll
+DevExpress.Spreadsheet.v22.1.Core.dll
+DevExpress.TreeMap.v22.1.Core.dll
+DevExpress.Tutorials.v22.1.dll
+DevExpress.Utils.v22.1.dll
+DevExpress.Utils.v22.1.UI.dll
+DevExpress.Xpo.v22.1.dll
+DevExpress.XtraBars.v22.1.dll
+DevExpress.XtraCharts.v22.1.dll
+DevExpress.XtraCharts.v22.1.Extensions.dll
+DevExpress.XtraCharts.v22.1.UI.dll
+DevExpress.XtraCharts.v22.1.Wizard.dll
+DevExpress.XtraDiagram.v22.1.dll
+DevExpress.XtraDialogs.v22.1.dll
+DevExpress.XtraEditors.v22.1.dll
+DevExpress.XtraGantt.v22.1.dll
+DevExpress.XtraGauges.v22.1.Core.dll
+DevExpress.XtraGauges.v22.1.Presets.dll
+DevExpress.XtraGauges.v22.1.Win.dll
+DevExpress.XtraGrid.v22.1.dll
+DevExpress.XtraLayout.v22.1.dll
+DevExpress.XtraMap.v22.1.dll
+DevExpress.XtraNavBar.v22.1.dll
+DevExpress.XtraPdfViewer.v22.1.dll
+DevExpress.XtraPivotGrid.v22.1.dll
+DevExpress.XtraPrinting.v22.1.dll
+DevExpress.XtraReports.v22.1.dll
+DevExpress.XtraReports.v22.1.Extensions.dll
+DevExpress.XtraRichEdit.v22.1.dll
+
+2022-12-15 오후 3:04:29
+
+테이블 작업 시작합니다.
+
+2022-12-15 오후 3:05:01
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+Autofac.dll
+Autofac.Extensions.DependencyInjection.dll
+BouncyCastle.Crypto.dll
+chromedriver.exe
+ComLib.deps.json
+ComLib.dll
+ComLib32.dll
+DevExpress.Charts.v22.1.Core.dll
+DevExpress.CodeParser.v22.1.dll
+DevExpress.Data.Desktop.v22.1.dll
+DevExpress.Data.v22.1.dll
+DevExpress.DataAccess.v22.1.dll
+DevExpress.DataAccess.v22.1.UI.dll
+DevExpress.DataVisualization.v22.1.Core.dll
+DevExpress.DemoData.v22.1.dll
+DevExpress.Diagram.v22.1.Core.dll
+DevExpress.Dialogs.v22.1.Core.dll
+DevExpress.Drawing.v22.1.dll
+DevExpress.Images.v22.1.dll
+DevExpress.Map.v22.1.Core.dll
+DevExpress.Mvvm.v22.1.dll
+DevExpress.Office.v22.1.Core.dll
+DevExpress.Pdf.v22.1.Core.dll
+DevExpress.Pdf.v22.1.Drawing.dll
+DevExpress.PivotGrid.v22.1.Core.dll
+DevExpress.Printing.v22.1.Core.dll
+DevExpress.RichEdit.v22.1.Core.dll
+DevExpress.RichEdit.v22.1.Export.dll
+DevExpress.Sparkline.v22.1.Core.dll
+DevExpress.SpellChecker.v22.1.Core.dll
+DevExpress.Spreadsheet.v22.1.Core.dll
+DevExpress.TreeMap.v22.1.Core.dll
+DevExpress.Tutorials.v22.1.dll
+DevExpress.Utils.v22.1.dll
+DevExpress.Utils.v22.1.UI.dll
+DevExpress.Xpo.v22.1.dll
+DevExpress.XtraBars.v22.1.dll
+DevExpress.XtraCharts.v22.1.dll
+DevExpress.XtraCharts.v22.1.Extensions.dll
+DevExpress.XtraCharts.v22.1.UI.dll
+DevExpress.XtraCharts.v22.1.Wizard.dll
+DevExpress.XtraDiagram.v22.1.dll
+DevExpress.XtraDialogs.v22.1.dll
+DevExpress.XtraEditors.v22.1.dll
+DevExpress.XtraGantt.v22.1.dll
+DevExpress.XtraGauges.v22.1.Core.dll
+DevExpress.XtraGauges.v22.1.Presets.dll
+DevExpress.XtraGauges.v22.1.Win.dll
+DevExpress.XtraGrid.v22.1.dll
+DevExpress.XtraLayout.v22.1.dll
+DevExpress.XtraMap.v22.1.dll
+DevExpress.XtraNavBar.v22.1.dll
+DevExpress.XtraPdfViewer.v22.1.dll
+DevExpress.XtraPivotGrid.v22.1.dll
+DevExpress.XtraPrinting.v22.1.dll
+DevExpress.XtraReports.v22.1.dll
+DevExpress.XtraReports.v22.1.Extensions.dll
+DevExpress.XtraRichEdit.v22.1.dll
+DevExpress.XtraScheduler.v22.1.Core.Desktop.dll
+DevExpress.XtraScheduler.v22.1.Core.dll
+DevExpress.XtraScheduler.v22.1.dll
+DevExpress.XtraScheduler.v22.1.Extensions.dll
+DevExpress.XtraScheduler.v22.1.Reporting.dll
+DevExpress.XtraScheduler.v22.1.Reporting.Extensions.dll
+DevExpress.XtraSpellChecker.v22.1.dll
+DevExpress.XtraSpreadsheet.v22.1.dll
+DevExpress.XtraTreeList.v22.1.dll
+DevExpress.XtraTreeMap.v22.1.dll
+DevExpress.XtraTreeMap.v22.1.UI.dll
+DevExpress.XtraVerticalGrid.v22.1.dll
+DevExpress.XtraWizard.v22.1.dll
+eDevX.deps.json
+eDevX.dll
+EntityFramework.dll
+EntityFramework.SqlServer.dll
+enve_ninfo.ini
+Extend.dll
+hospital.png
+hospital2.png
+Humanizer.dll
+kcd8_master.db
+DevExpress.Blazor.Reporting.v21.2.Viewer.resources.dll
+DevExpress.Blazor.Reporting.v22.1.Viewer.resources.dll
+DevExpress.Blazor.RichEdit.v21.2.resources.dll
+DevExpress.Blazor.RichEdit.v22.1.resources.dll
+DevExpress.Blazor.v21.2.resources.dll
+DevExpress.Blazor.v22.1.resources.dll
+DevExpress.Charts.Designer.v21.2.resources.dll
+DevExpress.Charts.Designer.v22.1.resources.dll
+DevExpress.Dashboard.v21.2.Core.resources.dll
+DevExpress.Dashboard.v21.2.Web.resources.dll
+DevExpress.Dashboard.v21.2.Win.resources.dll
+DevExpress.Dashboard.v22.1.Core.resources.dll
+DevExpress.Dashboard.v22.1.Web.resources.dll
+DevExpress.Dashboard.v22.1.Win.resources.dll
+DevExpress.Data.v21.2.resources.dll
+DevExpress.Data.v22.1.resources.dll
+DevExpress.DataAccess.v21.2.resources.dll
+DevExpress.DataAccess.v21.2.UI.resources.dll
+DevExpress.DataAccess.v22.1.resources.dll
+DevExpress.DataAccess.v22.1.UI.resources.dll
+DevExpress.Diagram.v21.2.Core.resources.dll
+DevExpress.Diagram.v22.1.Core.resources.dll
+DevExpress.Dialogs.v21.2.Core.resources.dll
+DevExpress.Dialogs.v22.1.Core.resources.dll
+DevExpress.EntityFrameworkCore.Security.v21.2.resources.dll
+DevExpress.EntityFrameworkCore.Security.v22.1.resources.dll
+DevExpress.ExpressApp.AuditTrail.Xpo.v21.2.resources.dll
+DevExpress.ExpressApp.AuditTrail.Xpo.v22.1.resources.dll
+DevExpress.ExpressApp.Blazor.v21.2.resources.dll
+DevExpress.ExpressApp.Blazor.v22.1.resources.dll
+DevExpress.ExpressApp.Chart.v21.2.resources.dll
+DevExpress.ExpressApp.Chart.v22.1.resources.dll
+DevExpress.ExpressApp.CloneObject.Xpo.v21.2.resources.dll
+DevExpress.ExpressApp.CloneObject.Xpo.v22.1.resources.dll
+DevExpress.ExpressApp.Dashboards.Blazor.v21.2.resources.dll
+DevExpress.ExpressApp.Dashboards.v21.2.resources.dll
+DevExpress.ExpressApp.Dashboards.v22.1.resources.dll
+DevExpress.ExpressApp.Dashboards.Web.v21.2.resources.dll
+DevExpress.ExpressApp.Dashboards.Web.v22.1.resources.dll
+DevExpress.ExpressApp.Dashboards.Win.v21.2.resources.dll
+DevExpress.ExpressApp.Dashboards.Win.v22.1.resources.dll
+DevExpress.ExpressApp.FileAttachment.Blazor.v21.2.resources.dll
+DevExpress.ExpressApp.FileAttachment.Blazor.v22.1.resources.dll
+DevExpress.ExpressApp.FileAttachment.Web.v21.2.resources.dll
+DevExpress.ExpressApp.FileAttachment.Web.v22.1.resources.dll
+DevExpress.ExpressApp.FileAttachment.Win.v21.2.resources.dll
+DevExpress.ExpressApp.FileAttachment.Win.v22.1.resources.dll
+DevExpress.ExpressApp.HtmlPropertyEditor.Win.v21.2.resources.dll
+DevExpress.ExpressApp.HtmlPropertyEditor.Win.v22.1.resources.dll
+DevExpress.ExpressApp.Kpi.v21.2.resources.dll
+DevExpress.ExpressApp.Kpi.v22.1.resources.dll
+DevExpress.ExpressApp.Maps.Web.v21.2.resources.dll
+DevExpress.ExpressApp.Maps.Web.v22.1.resources.dll
+DevExpress.ExpressApp.Notifications.v21.2.resources.dll
+DevExpress.ExpressApp.Notifications.v22.1.resources.dll
+DevExpress.ExpressApp.Notifications.Web.v21.2.resources.dll
+DevExpress.ExpressApp.Notifications.Web.v22.1.resources.dll
+DevExpress.ExpressApp.Objects.v21.2.resources.dll
+DevExpress.ExpressApp.Objects.v22.1.resources.dll
+DevExpress.ExpressApp.Office.Web.v21.2.resources.dll
+DevExpress.ExpressApp.Office.Web.v22.1.resources.dll
+DevExpress.ExpressApp.Office.Win.v21.2.resources.dll
+DevExpress.ExpressApp.Office.Win.v22.1.resources.dll
+DevExpress.ExpressApp.PivotChart.v21.2.resources.dll
+DevExpress.ExpressApp.PivotChart.v22.1.resources.dll
+DevExpress.ExpressApp.PivotChart.Web.v21.2.resources.dll
+DevExpress.ExpressApp.PivotChart.Web.v22.1.resources.dll
+DevExpress.ExpressApp.PivotChart.Win.v21.2.resources.dll
+DevExpress.ExpressApp.PivotChart.Win.v22.1.resources.dll
+DevExpress.ExpressApp.PivotGrid.v21.2.resources.dll
+DevExpress.ExpressApp.PivotGrid.v22.1.resources.dll
+DevExpress.ExpressApp.PivotGrid.Web.v21.2.resources.dll
+DevExpress.ExpressApp.PivotGrid.Web.v22.1.resources.dll
+DevExpress.ExpressApp.Reports.v21.2.resources.dll
+DevExpress.ExpressApp.Reports.v22.1.resources.dll
+DevExpress.ExpressApp.Reports.Web.v21.2.resources.dll
+DevExpress.ExpressApp.Reports.Web.v22.1.resources.dll
+DevExpress.ExpressApp.Reports.Win.v21.2.resources.dll
+DevExpress.ExpressApp.Reports.Win.v22.1.resources.dll
+DevExpress.ExpressApp.ReportsV2.Blazor.v21.2.resources.dll
+DevExpress.ExpressApp.ReportsV2.Blazor.v22.1.resources.dll
+DevExpress.ExpressApp.ReportsV2.v21.2.resources.dll
+DevExpress.ExpressApp.ReportsV2.v22.1.resources.dll
+DevExpress.ExpressApp.ReportsV2.Web.v21.2.resources.dll
+DevExpress.ExpressApp.ReportsV2.Web.v22.1.resources.dll
+DevExpress.ExpressApp.ReportsV2.Win.v21.2.resources.dll
+DevExpress.ExpressApp.ReportsV2.Win.v22.1.resources.dll
+DevExpress.ExpressApp.Scheduler.v21.2.resources.dll
+DevExpress.ExpressApp.Scheduler.v22.1.resources.dll
+DevExpress.ExpressApp.Scheduler.Web.v21.2.resources.dll
+DevExpress.ExpressApp.Scheduler.Web.v22.1.resources.dll
+DevExpress.ExpressApp.Scheduler.Win.v21.2.resources.dll
+DevExpress.ExpressApp.Scheduler.Win.v22.1.resources.dll
+DevExpress.ExpressApp.ScriptRecorder.v21.2.resources.dll
+DevExpress.ExpressApp.ScriptRecorder.v22.1.resources.dll
+DevExpress.ExpressApp.ScriptRecorder.Win.v21.2.resources.dll
+DevExpress.ExpressApp.ScriptRecorder.Win.v22.1.resources.dll
+DevExpress.ExpressApp.Security.v21.2.resources.dll
+DevExpress.ExpressApp.Security.v22.1.resources.dll
+DevExpress.ExpressApp.Security.Xpo.v21.2.resources.dll
+DevExpress.ExpressApp.Security.Xpo.v22.1.resources.dll
+DevExpress.ExpressApp.StateMachine.v21.2.resources.dll
+DevExpress.ExpressApp.StateMachine.v22.1.resources.dll
+DevExpress.ExpressApp.v21.2.resources.dll
+DevExpress.ExpressApp.v22.1.resources.dll
+DevExpress.ExpressApp.Validation.v21.2.resources.dll
+DevExpress.ExpressApp.Validation.v22.1.resources.dll
+DevExpress.ExpressApp.Validation.Win.v21.2.resources.dll
+DevExpress.ExpressApp.Validation.Win.v22.1.resources.dll
+DevExpress.ExpressApp.ViewVariantsModule.v21.2.resources.dll
+DevExpress.ExpressApp.ViewVariantsModule.v22.1.resources.dll
+DevExpress.ExpressApp.Web.v21.2.resources.dll
+DevExpress.ExpressApp.Web.v22.1.resources.dll
+DevExpress.ExpressApp.Win.v21.2.resources.dll
+DevExpress.ExpressApp.Win.v22.1.resources.dll
+DevExpress.ExpressApp.Workflow.v21.2.resources.dll
+DevExpress.ExpressApp.Workflow.v22.1.resources.dll
+DevExpress.ExpressApp.Workflow.Win.v21.2.resources.dll
+DevExpress.ExpressApp.Workflow.Win.v22.1.resources.dll
+DevExpress.Map.v21.2.Core.resources.dll
+DevExpress.Map.v22.1.Core.resources.dll
+DevExpress.Mvvm.v21.2.DataModel.resources.dll
+DevExpress.Mvvm.v22.1.DataModel.resources.dll
+DevExpress.Office.v21.2.Core.resources.dll
+DevExpress.Office.v22.1.Core.resources.dll
+DevExpress.Pdf.v21.2.Core.resources.dll
+DevExpress.Pdf.v22.1.Core.resources.dll
+DevExpress.Persistent.Base.v21.2.resources.dll
+DevExpress.Persistent.Base.v22.1.resources.dll
+DevExpress.PivotGrid.v21.2.Core.resources.dll
+DevExpress.PivotGrid.v22.1.Core.resources.dll
+DevExpress.Printing.v21.2.Core.resources.dll
+DevExpress.Printing.v22.1.Core.resources.dll
+DevExpress.ReportServer.v21.2.Localization.resources.dll
+DevExpress.ReportServer.v22.1.Localization.resources.dll
+DevExpress.RichEdit.v21.2.Core.resources.dll
+DevExpress.RichEdit.v22.1.Core.resources.dll
+DevExpress.Snap.v21.2.Core.resources.dll
+DevExpress.Snap.v21.2.Extensions.resources.dll
+DevExpress.Snap.v21.2.resources.dll
+DevExpress.Snap.v22.1.Core.resources.dll
+DevExpress.Snap.v22.1.Extensions.resources.dll
+DevExpress.Snap.v22.1.resources.dll
+DevExpress.Sparkline.v21.2.Core.resources.dll
+DevExpress.Sparkline.v22.1.Core.resources.dll
+DevExpress.Spreadsheet.v21.2.Core.resources.dll
+
+2022-12-15 오후 3:07:54
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+Autofac.dll
+Autofac.Extensions.DependencyInjection.dll
+BouncyCastle.Crypto.dll
+chromedriver.exe
+ComLib.deps.json
+ComLib.dll
+ComLib32.dll
+DevExpress.Charts.v22.1.Core.dll
+DevExpress.CodeParser.v22.1.dll
+DevExpress.Data.Desktop.v22.1.dll
+DevExpress.Data.v22.1.dll
+DevExpress.DataAccess.v22.1.dll
+DevExpress.DataAccess.v22.1.UI.dll
+DevExpress.DataVisualization.v22.1.Core.dll
+DevExpress.DemoData.v22.1.dll
+DevExpress.Diagram.v22.1.Core.dll
+DevExpress.Dialogs.v22.1.Core.dll
+DevExpress.Drawing.v22.1.dll
+DevExpress.Images.v22.1.dll
+DevExpress.Map.v22.1.Core.dll
+DevExpress.Mvvm.v22.1.dll
+DevExpress.Office.v22.1.Core.dll
+DevExpress.Pdf.v22.1.Core.dll
+DevExpress.Pdf.v22.1.Drawing.dll
+DevExpress.PivotGrid.v22.1.Core.dll
+DevExpress.Printing.v22.1.Core.dll
+DevExpress.RichEdit.v22.1.Core.dll
+DevExpress.RichEdit.v22.1.Export.dll
+DevExpress.Sparkline.v22.1.Core.dll
+DevExpress.SpellChecker.v22.1.Core.dll
+DevExpress.Spreadsheet.v22.1.Core.dll
+DevExpress.TreeMap.v22.1.Core.dll
+DevExpress.Tutorials.v22.1.dll
+DevExpress.Utils.v22.1.dll
+DevExpress.Utils.v22.1.UI.dll
+DevExpress.Xpo.v22.1.dll
+DevExpress.XtraBars.v22.1.dll
+DevExpress.XtraCharts.v22.1.dll
+DevExpress.XtraCharts.v22.1.Extensions.dll
+DevExpress.XtraCharts.v22.1.UI.dll
+DevExpress.XtraCharts.v22.1.Wizard.dll
+DevExpress.XtraDiagram.v22.1.dll
+DevExpress.XtraDialogs.v22.1.dll
+DevExpress.XtraEditors.v22.1.dll
+DevExpress.XtraGantt.v22.1.dll
+DevExpress.XtraGauges.v22.1.Core.dll
+DevExpress.XtraGauges.v22.1.Presets.dll
+DevExpress.XtraGauges.v22.1.Win.dll
+DevExpress.XtraGrid.v22.1.dll
+DevExpress.XtraLayout.v22.1.dll
+DevExpress.XtraMap.v22.1.dll
+DevExpress.XtraNavBar.v22.1.dll
+DevExpress.XtraPdfViewer.v22.1.dll
+DevExpress.XtraPivotGrid.v22.1.dll
+DevExpress.XtraPrinting.v22.1.dll
+DevExpress.XtraReports.v22.1.dll
+DevExpress.XtraReports.v22.1.Extensions.dll
+DevExpress.XtraRichEdit.v22.1.dll
+DevExpress.XtraScheduler.v22.1.Core.Desktop.dll
+DevExpress.XtraScheduler.v22.1.Core.dll
+DevExpress.XtraScheduler.v22.1.dll
+DevExpress.XtraScheduler.v22.1.Extensions.dll
+DevExpress.XtraScheduler.v22.1.Reporting.dll
+DevExpress.XtraScheduler.v22.1.Reporting.Extensions.dll
+DevExpress.XtraSpellChecker.v22.1.dll
+DevExpress.XtraSpreadsheet.v22.1.dll
+DevExpress.XtraTreeList.v22.1.dll
+DevExpress.XtraTreeMap.v22.1.dll
+DevExpress.XtraTreeMap.v22.1.UI.dll
+DevExpress.XtraVerticalGrid.v22.1.dll
+DevExpress.XtraWizard.v22.1.dll
+eDevX.deps.json
+eDevX.dll
+EntityFramework.dll
+EntityFramework.SqlServer.dll
+enve_ninfo.ini
+Extend.dll
+hospital.png
+hospital2.png
+Humanizer.dll
+kcd8_master.db
+DevExpress.Blazor.Reporting.v21.2.Viewer.resources.dll
+DevExpress.Blazor.Reporting.v22.1.Viewer.resources.dll
+DevExpress.Blazor.RichEdit.v21.2.resources.dll
+DevExpress.Blazor.RichEdit.v22.1.resources.dll
+DevExpress.Blazor.v21.2.resources.dll
+DevExpress.Blazor.v22.1.resources.dll
+DevExpress.Charts.Designer.v21.2.resources.dll
+DevExpress.Charts.Designer.v22.1.resources.dll
+DevExpress.Dashboard.v21.2.Core.resources.dll
+DevExpress.Dashboard.v21.2.Web.resources.dll
+DevExpress.Dashboard.v21.2.Win.resources.dll
+DevExpress.Dashboard.v22.1.Core.resources.dll
+DevExpress.Dashboard.v22.1.Web.resources.dll
+DevExpress.Dashboard.v22.1.Win.resources.dll
+DevExpress.Data.v21.2.resources.dll
+DevExpress.Data.v22.1.resources.dll
+DevExpress.DataAccess.v21.2.resources.dll
+DevExpress.DataAccess.v21.2.UI.resources.dll
+DevExpress.DataAccess.v22.1.resources.dll
+DevExpress.DataAccess.v22.1.UI.resources.dll
+DevExpress.Diagram.v21.2.Core.resources.dll
+DevExpress.Diagram.v22.1.Core.resources.dll
+DevExpress.Dialogs.v21.2.Core.resources.dll
+DevExpress.Dialogs.v22.1.Core.resources.dll
+DevExpress.EntityFrameworkCore.Security.v21.2.resources.dll
+DevExpress.EntityFrameworkCore.Security.v22.1.resources.dll
+DevExpress.ExpressApp.AuditTrail.Xpo.v21.2.resources.dll
+DevExpress.ExpressApp.AuditTrail.Xpo.v22.1.resources.dll
+DevExpress.ExpressApp.Blazor.v21.2.resources.dll
+DevExpress.ExpressApp.Blazor.v22.1.resources.dll
+DevExpress.ExpressApp.Chart.v21.2.resources.dll
+DevExpress.ExpressApp.Chart.v22.1.resources.dll
+DevExpress.ExpressApp.CloneObject.Xpo.v21.2.resources.dll
+DevExpress.ExpressApp.CloneObject.Xpo.v22.1.resources.dll
+DevExpress.ExpressApp.Dashboards.Blazor.v21.2.resources.dll
+DevExpress.ExpressApp.Dashboards.v21.2.resources.dll
+DevExpress.ExpressApp.Dashboards.v22.1.resources.dll
+DevExpress.ExpressApp.Dashboards.Web.v21.2.resources.dll
+DevExpress.ExpressApp.Dashboards.Web.v22.1.resources.dll
+DevExpress.ExpressApp.Dashboards.Win.v21.2.resources.dll
+DevExpress.ExpressApp.Dashboards.Win.v22.1.resources.dll
+DevExpress.ExpressApp.FileAttachment.Blazor.v21.2.resources.dll
+DevExpress.ExpressApp.FileAttachment.Blazor.v22.1.resources.dll
+DevExpress.ExpressApp.FileAttachment.Web.v21.2.resources.dll
+DevExpress.ExpressApp.FileAttachment.Web.v22.1.resources.dll
+DevExpress.ExpressApp.FileAttachment.Win.v21.2.resources.dll
+DevExpress.ExpressApp.FileAttachment.Win.v22.1.resources.dll
+DevExpress.ExpressApp.HtmlPropertyEditor.Win.v21.2.resources.dll
+DevExpress.ExpressApp.HtmlPropertyEditor.Win.v22.1.resources.dll
+DevExpress.ExpressApp.Kpi.v21.2.resources.dll
+DevExpress.ExpressApp.Kpi.v22.1.resources.dll
+DevExpress.ExpressApp.Maps.Web.v21.2.resources.dll
+DevExpress.ExpressApp.Maps.Web.v22.1.resources.dll
+DevExpress.ExpressApp.Notifications.v21.2.resources.dll
+DevExpress.ExpressApp.Notifications.v22.1.resources.dll
+DevExpress.ExpressApp.Notifications.Web.v21.2.resources.dll
+DevExpress.ExpressApp.Notifications.Web.v22.1.resources.dll
+DevExpress.ExpressApp.Objects.v21.2.resources.dll
+DevExpress.ExpressApp.Objects.v22.1.resources.dll
+DevExpress.ExpressApp.Office.Web.v21.2.resources.dll
+DevExpress.ExpressApp.Office.Web.v22.1.resources.dll
+DevExpress.ExpressApp.Office.Win.v21.2.resources.dll
+DevExpress.ExpressApp.Office.Win.v22.1.resources.dll
+DevExpress.ExpressApp.PivotChart.v21.2.resources.dll
+DevExpress.ExpressApp.PivotChart.v22.1.resources.dll
+DevExpress.ExpressApp.PivotChart.Web.v21.2.resources.dll
+DevExpress.ExpressApp.PivotChart.Web.v22.1.resources.dll
+DevExpress.ExpressApp.PivotChart.Win.v21.2.resources.dll
+DevExpress.ExpressApp.PivotChart.Win.v22.1.resources.dll
+DevExpress.ExpressApp.PivotGrid.v21.2.resources.dll
+DevExpress.ExpressApp.PivotGrid.v22.1.resources.dll
+DevExpress.ExpressApp.PivotGrid.Web.v21.2.resources.dll
+DevExpress.ExpressApp.PivotGrid.Web.v22.1.resources.dll
+DevExpress.ExpressApp.Reports.v21.2.resources.dll
+DevExpress.ExpressApp.Reports.v22.1.resources.dll
+DevExpress.ExpressApp.Reports.Web.v21.2.resources.dll
+DevExpress.ExpressApp.Reports.Web.v22.1.resources.dll
+DevExpress.ExpressApp.Reports.Win.v21.2.resources.dll
+DevExpress.ExpressApp.Reports.Win.v22.1.resources.dll
+DevExpress.ExpressApp.ReportsV2.Blazor.v21.2.resources.dll
+DevExpress.ExpressApp.ReportsV2.Blazor.v22.1.resources.dll
+DevExpress.ExpressApp.ReportsV2.v21.2.resources.dll
+DevExpress.ExpressApp.ReportsV2.v22.1.resources.dll
+DevExpress.ExpressApp.ReportsV2.Web.v21.2.resources.dll
+DevExpress.ExpressApp.ReportsV2.Web.v22.1.resources.dll
+DevExpress.ExpressApp.ReportsV2.Win.v21.2.resources.dll
+DevExpress.ExpressApp.ReportsV2.Win.v22.1.resources.dll
+DevExpress.ExpressApp.Scheduler.v21.2.resources.dll
+DevExpress.ExpressApp.Scheduler.v22.1.resources.dll
+DevExpress.ExpressApp.Scheduler.Web.v21.2.resources.dll
+DevExpress.ExpressApp.Scheduler.Web.v22.1.resources.dll
+DevExpress.ExpressApp.Scheduler.Win.v21.2.resources.dll
+DevExpress.ExpressApp.Scheduler.Win.v22.1.resources.dll
+DevExpress.ExpressApp.ScriptRecorder.v21.2.resources.dll
+DevExpress.ExpressApp.ScriptRecorder.v22.1.resources.dll
+DevExpress.ExpressApp.ScriptRecorder.Win.v21.2.resources.dll
+DevExpress.ExpressApp.ScriptRecorder.Win.v22.1.resources.dll
+DevExpress.ExpressApp.Security.v21.2.resources.dll
+DevExpress.ExpressApp.Security.v22.1.resources.dll
+DevExpress.ExpressApp.Security.Xpo.v21.2.resources.dll
+DevExpress.ExpressApp.Security.Xpo.v22.1.resources.dll
+DevExpress.ExpressApp.StateMachine.v21.2.resources.dll
+DevExpress.ExpressApp.StateMachine.v22.1.resources.dll
+DevExpress.ExpressApp.v21.2.resources.dll
+DevExpress.ExpressApp.v22.1.resources.dll
+DevExpress.ExpressApp.Validation.v21.2.resources.dll
+DevExpress.ExpressApp.Validation.v22.1.resources.dll
+DevExpress.ExpressApp.Validation.Win.v21.2.resources.dll
+DevExpress.ExpressApp.Validation.Win.v22.1.resources.dll
+DevExpress.ExpressApp.ViewVariantsModule.v21.2.resources.dll
+DevExpress.ExpressApp.ViewVariantsModule.v22.1.resources.dll
+DevExpress.ExpressApp.Web.v21.2.resources.dll
+DevExpress.ExpressApp.Web.v22.1.resources.dll
+DevExpress.ExpressApp.Win.v21.2.resources.dll
+DevExpress.ExpressApp.Win.v22.1.resources.dll
+DevExpress.ExpressApp.Workflow.v21.2.resources.dll
+DevExpress.ExpressApp.Workflow.v22.1.resources.dll
+DevExpress.ExpressApp.Workflow.Win.v21.2.resources.dll
+DevExpress.ExpressApp.Workflow.Win.v22.1.resources.dll
+DevExpress.Map.v21.2.Core.resources.dll
+DevExpress.Map.v22.1.Core.resources.dll
+DevExpress.Mvvm.v21.2.DataModel.resources.dll
+DevExpress.Mvvm.v22.1.DataModel.resources.dll
+DevExpress.Office.v21.2.Core.resources.dll
+DevExpress.Office.v22.1.Core.resources.dll
+DevExpress.Pdf.v21.2.Core.resources.dll
+DevExpress.Pdf.v22.1.Core.resources.dll
+DevExpress.Persistent.Base.v21.2.resources.dll
+DevExpress.Persistent.Base.v22.1.resources.dll
+DevExpress.PivotGrid.v21.2.Core.resources.dll
+DevExpress.PivotGrid.v22.1.Core.resources.dll
+DevExpress.Printing.v21.2.Core.resources.dll
+DevExpress.Printing.v22.1.Core.resources.dll
+DevExpress.ReportServer.v21.2.Localization.resources.dll
+DevExpress.ReportServer.v22.1.Localization.resources.dll
+DevExpress.RichEdit.v21.2.Core.resources.dll
+DevExpress.RichEdit.v22.1.Core.resources.dll
+DevExpress.Snap.v21.2.Core.resources.dll
+DevExpress.Snap.v21.2.Extensions.resources.dll
+DevExpress.Snap.v21.2.resources.dll
+DevExpress.Snap.v22.1.Core.resources.dll
+DevExpress.Snap.v22.1.Extensions.resources.dll
+DevExpress.Snap.v22.1.resources.dll
+DevExpress.Sparkline.v21.2.Core.resources.dll
+DevExpress.Sparkline.v22.1.Core.resources.dll
+DevExpress.Spreadsheet.v21.2.Core.resources.dll
+DevExpress.Spreadsheet.v22.1.Core.resources.dll
+DevExpress.Utils.v21.2.resources.dll
+DevExpress.Utils.v21.2.UI.resources.dll
+DevExpress.Utils.v22.1.resources.dll
+DevExpress.Utils.v22.1.UI.resources.dll
+DevExpress.Web.ASPxDiagram.v21.2.resources.dll
+DevExpress.Web.ASPxDiagram.v22.1.resources.dll
+DevExpress.Web.ASPxGantt.v21.2.resources.dll
+DevExpress.Web.ASPxGantt.v22.1.resources.dll
+DevExpress.Web.ASPxHtmlEditor.v21.2.resources.dll
+DevExpress.Web.ASPxHtmlEditor.v22.1.resources.dll
+DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+DevExpress.Web.ASPxRichEdit.v22.1.resources.dll
+DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+DevExpress.Web.ASPxScheduler.v22.1.resources.dll
+DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+DevExpress.Web.ASPxSpellChecker.v22.1.resources.dll
+DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+DevExpress.Web.ASPxSpreadsheet.v22.1.resources.dll
+DevExpress.Web.ASPxTreeList.v21.2.resources.dll
+DevExpress.Web.ASPxTreeList.v22.1.resources.dll
+DevExpress.Web.Resources.v21.2.resources.dll
+DevExpress.Web.Resources.v22.1.resources.dll
+DevExpress.Web.v21.2.resources.dll
+DevExpress.Web.v22.1.resources.dll
+DevExpress.Xpf.Charts.v21.2.resources.dll
+DevExpress.Xpf.Charts.v22.1.resources.dll
+DevExpress.Xpf.CodeView.v21.2.resources.dll
+DevExpress.Xpf.CodeView.v22.1.resources.dll
+DevExpress.Xpf.Controls.v21.2.resources.dll
+DevExpress.Xpf.Controls.v22.1.resources.dll
+DevExpress.Xpf.Core.v21.2.resources.dll
+DevExpress.Xpf.Core.v22.1.resources.dll
+DevExpress.Xpf.Docking.v21.2.resources.dll
+DevExpress.Xpf.Docking.v22.1.resources.dll
+DevExpress.Xpf.DocumentViewer.v21.2.Core.resources.dll
+DevExpress.Xpf.DocumentViewer.v22.1.Core.resources.dll
+DevExpress.Xpf.Gantt.v21.2.resources.dll
+DevExpress.Xpf.Gantt.v22.1.resources.dll
+DevExpress.Xpf.Gauges.v21.2.resources.dll
+DevExpress.Xpf.Gauges.v22.1.resources.dll
+DevExpress.Xpf.Grid.v21.2.Core.resources.dll
+DevExpress.Xpf.Grid.v22.1.Core.resources.dll
+DevExpress.Xpf.LayoutControl.v21.2.resources.dll
+DevExpress.Xpf.LayoutControl.v22.1.resources.dll
+DevExpress.Xpf.NavBar.v21.2.resources.dll
+DevExpress.Xpf.NavBar.v22.1.resources.dll
+DevExpress.Xpf.PdfViewer.v21.2.resources.dll
+DevExpress.Xpf.PdfViewer.v22.1.resources.dll
+DevExpress.Xpf.Printing.v21.2.resources.dll
+DevExpress.Xpf.Printing.v22.1.resources.dll
+DevExpress.Xpf.PropertyGrid.v21.2.resources.dll
+DevExpress.Xpf.PropertyGrid.v22.1.resources.dll
+DevExpress.Xpf.ReportDesigner.v21.2.resources.dll
+DevExpress.Xpf.ReportDesigner.v22.1.resources.dll
+DevExpress.Xpf.Ribbon.v21.2.resources.dll
+DevExpress.Xpf.Ribbon.v22.1.resources.dll
+DevExpress.Xpf.RichEdit.v21.2.resources.dll
+DevExpress.Xpf.RichEdit.v22.1.resources.dll
+DevExpress.Xpf.Scheduler.v21.2.resources.dll
+DevExpress.Xpf.Scheduler.v22.1.resources.dll
+DevExpress.Xpf.Scheduling.v21.2.resources.dll
+DevExpress.Xpf.Scheduling.v22.1.resources.dll
+DevExpress.Xpf.SpellChecker.v21.2.resources.dll
+DevExpress.Xpf.SpellChecker.v22.1.resources.dll
+DevExpress.Xpf.Spreadsheet.v21.2.resources.dll
+DevExpress.Xpf.Spreadsheet.v22.1.resources.dll
+DevExpress.Xpo.v21.2.resources.dll
+DevExpress.Xpo.v22.1.resources.dll
+DevExpress.XtraBars.v21.2.resources.dll
+DevExpress.XtraBars.v22.1.resources.dll
+DevExpress.XtraCharts.v21.2.resources.dll
+DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+DevExpress.XtraCharts.v22.1.resources.dll
+DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+DevExpress.XtraEditors.v21.2.resources.dll
+DevExpress.XtraEditors.v22.1.resources.dll
+DevExpress.XtraGantt.v21.2.resources.dll
+DevExpress.XtraGantt.v22.1.resources.dll
+DevExpress.XtraGauges.v21.2.Core.resources.dll
+DevExpress.XtraGauges.v21.2.Presets.resources.dll
+DevExpress.XtraGauges.v22.1.Core.resources.dll
+DevExpress.XtraGauges.v22.1.Presets.resources.dll
+DevExpress.XtraGrid.v21.2.resources.dll
+DevExpress.XtraGrid.v22.1.resources.dll
+DevExpress.XtraLayout.v21.2.resources.dll
+DevExpress.XtraLayout.v22.1.resources.dll
+DevExpress.XtraNavBar.v21.2.resources.dll
+DevExpress.XtraNavBar.v22.1.resources.dll
+DevExpress.XtraPdfViewer.v21.2.resources.dll
+DevExpress.XtraPdfViewer.v22.1.resources.dll
+DevExpress.XtraPivotGrid.v21.2.resources.dll
+DevExpress.XtraPivotGrid.v22.1.resources.dll
+DevExpress.XtraPrinting.v21.2.resources.dll
+DevExpress.XtraPrinting.v22.1.resources.dll
+DevExpress.XtraReports.v21.2.Extensions.resources.dll
+DevExpress.XtraReports.v21.2.resources.dll
+DevExpress.XtraReports.v21.2.Web.resources.dll
+DevExpress.XtraReports.v22.1.Extensions.resources.dll
+DevExpress.XtraReports.v22.1.resources.dll
+DevExpress.XtraReports.v22.1.Web.resources.dll
+DevExpress.XtraRichEdit.v21.2.resources.dll
+DevExpress.XtraRichEdit.v22.1.resources.dll
+DevExpress.XtraScheduler.v21.2.Core.resources.dll
+DevExpress.XtraScheduler.v21.2.Extensions.resources.dll
+DevExpress.XtraScheduler.v21.2.Reporting.resources.dll
+DevExpress.XtraScheduler.v21.2.resources.dll
+DevExpress.XtraScheduler.v22.1.Core.resources.dll
+DevExpress.XtraScheduler.v22.1.Extensions.resources.dll
+DevExpress.XtraScheduler.v22.1.Reporting.resources.dll
+DevExpress.XtraScheduler.v22.1.resources.dll
+DevExpress.XtraSpellChecker.v21.2.resources.dll
+DevExpress.XtraSpellChecker.v22.1.resources.dll
+DevExpress.XtraSpreadsheet.v21.2.resources.dll
+DevExpress.XtraSpreadsheet.v22.1.resources.dll
+DevExpress.XtraTreeList.v21.2.resources.dll
+DevExpress.XtraTreeList.v22.1.resources.dll
+DevExpress.XtraVerticalGrid.v21.2.resources.dll
+DevExpress.XtraVerticalGrid.v22.1.resources.dll
+DevExpress.XtraWizard.v21.2.resources.dll
+DevExpress.XtraWizard.v22.1.resources.dll
+Microsoft.CodeAnalysis.CSharp.resources.dll
+Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Microsoft.CodeAnalysis.resources.dll
+Microsoft.CodeAnalysis.Workspaces.resources.dll
+ko.zip
+lcmain.xml
+log4net.config
+log4net.dll
+log4net.xml
+Lombok.NET.dll
+MEDICAL_IMAGE.db
+Microsoft.Bcl.AsyncInterfaces.dll
+Microsoft.CodeAnalysis.CSharp.dll
+Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Microsoft.CodeAnalysis.dll
+Microsoft.CodeAnalysis.Workspaces.dll
+Microsoft.Data.Sqlite.dll
+Microsoft.EntityFrameworkCore.Abstractions.dll
+Microsoft.EntityFrameworkCore.dll
+Microsoft.EntityFrameworkCore.Relational.dll
+Microsoft.Extensions.Caching.Abstractions.dll
+Microsoft.Extensions.Caching.Memory.dll
+Microsoft.Extensions.Configuration.Abstractions.dll
+Microsoft.Extensions.Configuration.Binder.dll
+Microsoft.Extensions.Configuration.CommandLine.dll
+Microsoft.Extensions.Configuration.dll
+Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+Microsoft.Extensions.Configuration.FileExtensions.dll
+Microsoft.Extensions.Configuration.Json.dll
+Microsoft.Extensions.Configuration.UserSecrets.dll
+Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Microsoft.Extensions.DependencyInjection.dll
+Microsoft.Extensions.FileProviders.Abstractions.dll
+Microsoft.Extensions.FileProviders.Physical.dll
+Microsoft.Extensions.FileSystemGlobbing.dll
+Microsoft.Extensions.Hosting.Abstractions.dll
+Microsoft.Extensions.Hosting.dll
+Microsoft.Extensions.Logging.Abstractions.dll
+Microsoft.Extensions.Logging.Configuration.dll
+Microsoft.Extensions.Logging.Console.dll
+Microsoft.Extensions.Logging.Debug.dll
+Microsoft.Extensions.Logging.dll
+Microsoft.Extensions.Logging.EventLog.dll
+Microsoft.Extensions.Logging.EventSource.dll
+Microsoft.Extensions.Options.ConfigurationExtensions.dll
+Microsoft.Extensions.Options.dll
+Microsoft.Extensions.Primitives.dll
+Microsoft.Win32.SystemEvents.dll
+MoreLinq.dll
+Newtonsoft.Json.dll
+New_사전심사점검.dll
+New_사전심사점검.xml
+nFoodLib.dll
+nFoodQry.dll
+nFoodWin.dll
+nFoodWin.exe
+NimsLib.deps.json
+NimsLib.dll
+NimsQry.deps.json
+NimsQry.dll
+NimsWin.deps.json
+NimsWin.dll
+NimsWin.dll.config
+NimsWin.exe
+NimsWin.runtimeconfig.json
+nInfoLib.deps.json
+nInfoLib.dll
+nInfoQry.deps.json
+nInfoQry.dll
+nInfoWin.deps.json
+nInfoWin.dll
+nInfoWin.exe
+nInfoWin.runtimeconfig.json
+nLabLib.dll
+nLabQry.dll
+nLabWin.dll
+nLabWin.exe
+nOpdDockManager_v010.xml
+nOpdLib.deps.json
+nOpdLib.dll
+nOpdLib.runtimeconfig.json
+nOpdQry.deps.json
+nOpdQry.dll
+nOpdWin.AssemblyInfo.cs
+nOpdWin.AssemblyInfoInputs.cache
+nOpdWin.assets.cache
+nOpdWin.csproj.AssemblyReference.cache
+nOpdWin.csproj.CoreCompileInputs.cache
+nOpdWin.csproj.FileListAbsolute.txt
+nOpdWin.csproj.GenerateResource.cache
+nOpdWin.deps.json
+nOpdWin.dll
+nOpdWin.exe
+nOpdWin.frmMain.resources
+nOpdWin.GeneratedMSBuildEditorConfig.editorconfig
+nOpdWin.hlp.frmPtSrch_P.resources
+nOpdWin.runtimeconfig.json
+nOpdWin.udc.udcAcptPtInfo.resources
+Npgsql.dll
+nPharmLib.deps.json
+nPharmLib.dll
+nPharmQry.deps.json
+nPharmQry.dll
+nPharmWin.deps.json
+nPharmWin.dll
+nPharmWin.dll.config
+nPharmWin.exe
+nPharmWin.runtimeconfig.json
+nPrsLib.dll
+nPrsQry.dll
+nPrsWin.deps.json
+nPrsWin.dll
+nPrsWin.exe
+nPrsWin.runtimeconfig.json
+nunit.framework.dll
+nWrdLib.deps.json
+nWrdLib.dll
+nWrdQry.deps.json
+nWrdQry.dll
+nWrdWin.deps.json
+nWrdWin.dll
+nWrdWin.exe
+nWrdWin.runtimeconfig.json
+nXrayLib.deps.json
+nXrayLib.dll
+nXrayQry.deps.json
+nXrayQry.dll
+nXrayWin.dll
+nXrayWin.dll.config
+nXrayWin.exe
+Oracle.EntityFrameworkCore.dll
+Oracle.ManagedDataAccess.dll
+Quartz.dll
+RestSharp.dll
+RSALib.dll
+Microsoft.Win32.SystemEvents.dll
+System.Data.OleDb.dll
+System.Diagnostics.EventLog.dll
+System.Diagnostics.EventLog.Messages.dll
+System.Diagnostics.PerformanceCounter.dll
+System.Drawing.Common.dll
+System.Management.dll
+System.Security.Cryptography.ProtectedData.dll
+System.Windows.Extensions.dll
+System.Data.Odbc.dll
+System.DirectoryServices.dll
+System.DirectoryServices.Protocols.dll
+System.Data.SqlClient.dll
+System.IO.Ports.dll
+System.Private.ServiceModel.dll
+System.ServiceProcess.ServiceController.dll
+e_sqlite3.dll
+e_sqlite3.dll
+sni.dll
+e_sqlite3.dll
+sni.dll
+SQLite.Interop.dll
+e_sqlite3.dll
+sni.dll
+SQLite.Interop.dll
+Serilog.dll
+Serilog.Sinks.ColoredConsole.dll
+Serilog.Sinks.Console.dll
+Serilog.Sinks.Debug.dll
+Serilog.Sinks.File.dll
+Serilog.Sinks.RollingFile.dll
+SQLitePCLRaw.batteries_v2.dll
+SQLitePCLRaw.core.dll
+SQLitePCLRaw.provider.e_sqlite3.dll
+System.CodeDom.dll
+System.ComponentModel.Composition.dll
+System.Composition.AttributedModel.dll
+System.Composition.Convention.dll
+System.Composition.Hosting.dll
+System.Composition.Runtime.dll
+System.Composition.TypedParts.dll
+System.Configuration.ConfigurationManager.dll
+System.Data.Odbc.dll
+System.Data.OleDb.dll
+System.Data.SqlClient.dll
+System.Data.SQLite.dll
+System.Data.SQLite.EF6.dll
+System.Diagnostics.EventLog.dll
+System.Diagnostics.PerformanceCounter.dll
+System.DirectoryServices.dll
+System.DirectoryServices.Protocols.dll
+System.Drawing.Common.dll
+System.IO.Pipelines.dll
+System.IO.Ports.dll
+System.Linq.Dynamic.Core.dll
+System.Management.dll
+System.Reactive.Core.dll
+System.Reactive.dll
+System.Security.Cryptography.ProtectedData.dll
+System.Security.Permissions.dll
+System.ServiceModel.dll
+System.ServiceModel.Http.dll
+System.ServiceModel.NetTcp.dll
+System.ServiceModel.Primitives.dll
+System.ServiceModel.Security.dll
+System.ServiceModel.Syndication.dll
+System.ServiceProcess.ServiceController.dll
+System.Text.Encodings.Web.dll
+System.Text.Json.dll
+System.Windows.Extensions.dll
+TestCon.deps.json
+TestCon.exe
+TestCon.runtimeconfig.json
+TestWin.deps.json
+TestWin.exe
+TestWin.runtimeconfig.json
+UnitTest.deps.json
+UnitTest.exe
+UnitTest.runtimeconfig.json
+Useful.Extensions.dll
+WebDriver.dll
+WebDriver.Support.dll
+WinTail.exe
+Z.Expressions.Eval.Unity.dll
+Z.ExtensionMethods.dll
+사전심사점검.nsb
+진료실.pdf
+진료실.xls
+진료실.xlsx
+진료실_대일.xml
+진료실_이지.xml
+처방사용 통계
+처방사용 통계.pdf
+처방사용 통계.xls
+파일 다운로드 작업 완료시간 : 0 시간 4 분 16 초
+E-Chart 업데이트 완료
+
+2022-12-15 오후 3:12:43
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-15 오후 3:13:43
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 9 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-15 오후 3:14:06
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 9 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-15 오후 3:14:27
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-15 오후 3:14:52
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-15 오후 3:15:48
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-15 오후 3:16:00
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-15 오후 3:16:42
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 9 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-15 오후 3:16:55
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-15 오후 3:19:13
+
+테이블 작업 시작합니다.
+
+2022-12-15 오후 3:19:23
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-15 오후 3:20:54
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-15 오후 3:22:03
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-15 오후 3:23:15
+
+테이블 작업 시작합니다.
+
+2022-12-15 오후 3:24:07
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-15 오후 3:27:19
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-15 오후 3:36:10
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-15 오후 4:03:22
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-15 오후 4:10:12
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-19 오전 11:04:53
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-19 오전 11:06:37
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-19 오전 11:07:09
+
+테이블 작업 시작합니다.
+
+2022-12-19 오전 11:07:23
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-19 오전 11:29:20
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-19 오전 11:29:56
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-19 오전 11:30:28
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-19 오전 11:31:16
+
+테이블 작업 시작합니다.
+테이블 작업 완료시간 : 0 시간 0 분 8 초
+파일 다운로드를 시작합니다
+최신 버전 확인 중입니다.
+파일 다운로드 작업 완료시간 : 0 시간 0 분 0 초
+E-Chart 업데이트 완료
+
+2022-12-20 오전 10:30:12
+
+
+2022-12-23 오후 2:02:24
+
+
+2022-12-23 오후 2:03:13
+
